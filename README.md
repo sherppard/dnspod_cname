@@ -1,0 +1,2 @@
+# dnspod_cname
+修改dnspod记录的CNAME值，用于遭受DDOS攻击可以转到高防IP
